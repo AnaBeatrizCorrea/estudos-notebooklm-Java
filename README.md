@@ -6,4 +6,4 @@ O NotebookLM foi a maneira de juntar fontes e informações que demandariam uma 
 __Tema Escolhido:__ JAVA.
 __Objetivo do Estudo:__ Compreender aulas que utilizam Java como seu principal meio de aprendizado prático e teórico.
 __Fontes Utilizadas:__ 
-1. [![PDF - Livr: Como Programar em Java](https://shields.io)](COLOQUE_SEU_LINK_AQUI)
+1. <button href="" > Livro: Como Programar em Java</button>
