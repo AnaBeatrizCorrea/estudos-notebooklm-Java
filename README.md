@@ -14,11 +14,11 @@ __Objetivo do Estudo:__ Compreender aulas que utilizam Java como seu principal m
 3. <a href="https://www.dio.me/articles/java-para-iniciantes-tudo-o-que-voce-precisa-saber" > Java para Iniciantes: Tudo o que você precisa saber | Wallace Guimarães | Java | DIO</a>
 4. <a href="https://www.kufunda.net/publicdocs/ESTRUTURA%20DE%20DADOS.pdf" >Estrutura de Dados</a>
 
-__Perguntas para iniciar os estudos de maneira eficaz__
+### Perguntas para iniciar os estudos de maneira eficaz ###
 
-1. *Faça um resumo de como o Java é uma ótima ferramenta para entender estrutura de dados.* 
+1.  *Faça um resumo de como o Java é uma ótima ferramenta para entender estrutura de dados.* 
 *Utilizando exemplos práticos de como iniciar os estudos de ambos tópicos. Até 300 palavras.*<br>
-Resultando:
+**Resultando:**
 ---
 O **Java** é uma ferramenta de aprendizado excelente para estruturas de dados porque combina os princípios da **Orientação a Objetos** com a gestão transparente de memória por meio de **referências**.
 
@@ -56,7 +56,7 @@ O **Java** é uma ferramenta de aprendizado excelente para estruturas de dados p
 * Faça um passo a passo levando em consideração um iniciante;
 * Explicações simplificadas e sem termos técnicos;
 * Após o passo a passo sem termos técnicos, explique como o Java faz o código funcionar introduzindo os termos de forma bem detalhada (explicação de até 200 palavras).<br>
-Resultando:
+**Resultando:**
 
 ---
 
